@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Javascript and Python. Additionally, I look forward to delving deeper into the subject of back-end, blockchain technology and smart contracts in the future.**
 
-- 👨‍💻 All of my projects are available <a href="https://github.com/jancewicz?tab=repositories">here</a> at GitHub.
+- 👨‍💻 **All of my projects are available <a href="https://github.com/jancewicz?tab=repositories">here</a> at GitHub.**
 
 - 📫 How to reach me **jancewicz.pawel1@gmail.com**
 
-- 📄 Learn about my experiences: I embarked on my coding journey in July 2023, and since then, I have discovered a deep passion for mastering various coding concepts and computer science.
+- 📄 Learn about my experiences: **I embarked on my coding journey in July 2023, and since then, I have discovered a deep passion for mastering various coding concepts and computer science.**
 
 - ⚡ Fun fact **In my leisure time, I love strategizing for my Fantasy Premier League team, and practicing Brazilian Jiu-Jitsu.**
 
