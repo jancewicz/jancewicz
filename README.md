@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/jancewicz_" target="blank"><img src="https://img.shields.io/twitter/follow/jancewicz_?logo=twitter&style=for-the-badge" alt="jancewicz_" /></a> </p>
 
-- 🔭 I’m currently working on **Front-end project of crypto coin price tracking. You can see it <a href="https://github.com/jancewicz?tab=repositories](https://github.com/jancewicz/Crypto-Coin-Tracker)">here</a>**
+- 🔭 I’m currently working on **learning TypeScript by doing programming classic To Do List</a>**
 
 - 🌱 I’m currently learning **Javascript and Python. Additionally, I look forward to delving deeper into the subject of back-end, blockchain technology and smart contracts in the future.**
 
