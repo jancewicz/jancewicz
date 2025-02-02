@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jancewicz.pawel1@gmail.com**
 
-- ⚡ Fun fact **In my leisure time, I love strategizing for my Fantasy Premier League team, and train Brazilian Jiu Jitsu.**
+- ⚡ Fun fact **In my leisure time, I love strategizing for my Fantasy Premier League team, and training Brazilian Jiu Jitsu.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,6 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
 </div>
 
