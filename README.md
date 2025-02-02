@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jancewicz&show_icons=true&locale=en&layout=compact" alt="jancewicz" /></p>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jancewicz)](https://github.com/jancewicz/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jancewicz&show_icons=true&locale=en" alt="jancewicz" /></p>
 
