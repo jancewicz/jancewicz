@@ -7,7 +7,7 @@
 
 - 🔭 I’m working as a junior front-end developer in PKO Bank Polski.
 
-- 🌱 I’m currently into learning **golang and backend engineering stuff**. 
+- 🌱 I’m currently learning **golang and backend engineering stuff**. 
 
 - 👨‍💻 **All of my projects are available <a href="https://github.com/jancewicz?tab=repositories">here</a> at GitHub.**
 
