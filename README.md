@@ -40,11 +40,11 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jancewicz)](https://github.com/jancewicz/github-readme-stats)
 
-<div style="display:flex; flex-direction:column;">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jancewicz&show_icons=true&locale=en" alt="jancewicz" /></p>
 
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jancewicz&" alt="jancewicz" /></p>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jancewicz&show_icons=true&locale=en" alt="jancewicz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jancewicz&" alt="jancewicz" /></p>
+
 
 
 
