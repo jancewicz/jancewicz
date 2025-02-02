@@ -24,7 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
