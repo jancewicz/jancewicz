@@ -7,9 +7,9 @@
 
 - 👨‍💻 **All of my projects are available <a href="https://github.com/jancewicz?tab=repositories">here</a> at GitHub.**
 
-- 📫 How to reach me **jancewicz.pawel1@gmail.com**
+- 📫 How to reach me: **jancewicz.pawel1@gmail.com**
 
-- ⚡ Fun fact **In my leisure time, I love strategizing for my Fantasy Premier League team, and training Brazilian Jiu Jitsu.**
+- ⚡ In my leisure time, I love strategizing for my Fantasy Premier League team, and training Brazilian Jiu Jitsu.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
