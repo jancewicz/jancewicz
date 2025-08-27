@@ -1,9 +1,9 @@
 <h1 align="center">Hello, world! 🌐​ I'm Pawel Jancewicz</h1>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*VMmvImch6VU5pc2VktY1uw.gif">
 
-- 🔭 I’m working as a junior front-end developer in PKO Bank Polski.
+- 🔭 I’m working as a front-end developer in PKO Bank Polski.
 
-- 🌱 I’m currently learning **golang and backend engineering stuff**. 
+- 🌱 I’m currently learning **machine learning concepts**. 
 
 - 👨‍💻 **All of my projects are available <a href="https://github.com/jancewicz?tab=repositories">here</a> at GitHub.**
 
