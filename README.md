@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world! 🌐​ I'm Pawel Jancewicz</h1>
+<h1 align="center">Hello, world! 🌐​</h1>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*VMmvImch6VU5pc2VktY1uw.gif">
 
 - 🔭 I’m working as a front-end developer in PKO Bank Polski.
