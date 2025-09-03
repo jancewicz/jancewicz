@@ -34,8 +34,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </div>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jancewicz)](https://github.com/jancewicz/github-readme-stats)
-
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jancewicz&show_icons=true&locale=en" alt="jancewicz" />
