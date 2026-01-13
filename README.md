@@ -36,7 +36,6 @@
 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jancewicz&show_icons=true&locale=en" alt="jancewicz" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jancewicz&" alt="jancewicz" />
 </p>
 
